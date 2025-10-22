@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://www.roblox.com/games/127742093697776/Plants-Vs-Brainrots">
+    <title>Redirecting...</title>
+    <script>
+      // Backup JavaScript redirect
+      window.location.href = "https://www.roblox.com/games/127742093697776/Plants-Vs-Brainrots";
+    </script>
+  </head>
+  <body>
+    <p>
+      Redirecting to Roblox game... <br>
+      If it doesn't happen automatically, 
+      <a href="https://www.roblox.com/games/127742093697776/Plants-Vs-Brainrots">click here</a>.
+    </p>
+  </body>
+</html>
